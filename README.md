@@ -6,4 +6,4 @@ incluindo um readme via navegador.
 vamos ver como fica essa formatação
 
 ### E dessa forma
-Como fica 
+Como fica r
