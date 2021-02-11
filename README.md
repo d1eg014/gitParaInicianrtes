@@ -7,3 +7,6 @@ vamos ver como fica essa formatação
 
 ### E dessa forma
 Como fica r
+
+#### É possivel incluir uma imagem?
+
